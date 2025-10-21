@@ -19,15 +19,18 @@ This repository includes projects I’ve built while learning and practicing dat
 
 ---
 
-### 2. ⚙️ ETL Pipeline with Airflow
-**Goal:** Automate data extraction, transformation, and loading into PostgreSQL.  
+### 2. 🏬 Capstone Project: End-to-End Retail Data Pipeline with Python, SQL & Airflow
+**Goal:** Build a complete data pipeline for a retail business, from raw data ingestion to loading into a PostgreSQL database for analytics and visualization.  
 **Highlights:**
-- Designed a **DAG** in **Apache Airflow** to manage data flow.
-- Used **Python scripts** and **NumPy** for transformations and numerical computations.
-- Loaded processed data into **PostgreSQL**.
-- Scheduled tasks with Airflow to simulate production pipelines.
+- Developed an **end-to-end ETL pipeline** using **Python** and **Apache Airflow**.  
+- Extracted raw transactional data from multiple sources (CSV, API, etc.).  
+- Transformed data using **NumPy** and **Pandas** for cleaning and aggregations.  
+- Loaded the processed data into **PostgreSQL** for analysis and reporting.  
+- Designed **DAGs** in Airflow to automate and schedule data workflows.  
+- Implemented **data quality checks** and logging for pipeline reliability.  
+- Created **data visualizations with Matplotlib** to explore trends in sales and performance metrics.  
 
-📂 Folder: [`etl_project/`](./etl_project)
+📂 Folder: [`capstone_retail_pipeline/`](./capstone_retail_pipeline)
 
 ---
 
@@ -40,6 +43,7 @@ This repository includes projects I’ve built while learning and practicing dat
 | Database | PostgreSQL |
 | Data Modeling | ERD, SQL |
 | Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib |
 | Version Control | Git, GitHub |
 
 ---
