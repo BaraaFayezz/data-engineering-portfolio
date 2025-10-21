@@ -45,9 +45,14 @@ This repository includes projects I’ve built while learning and practicing dat
 ---
 
 ## 🧩 Future Enhancements
-- Add a data warehouse schema (star/snowflake)
-- Include cloud integration (e.g., AWS S3 or BigQuery)
-- Build dashboards on top of PostgreSQL data
+
+- Get familiar with **cloud tools** and services used in modern data pipelines (AWS, GCP, Azure).  
+- Learn and apply **Cloud Data Engineering** principles (data lakes, warehouses, and orchestration).  
+- Understand and implement **Modern Data concepts** such as ELT, DataOps, and modular pipeline design.  
+- Build **end-to-end Python pipelines** for data extraction, transformation, and loading across multiple environments.  
+- Expand projects to include **data warehouse modeling** (Star and Snowflake schemas).  
+- Integrate **cloud storage** and **data ingestion tools** like AWS S3 or Google Cloud Storage.  
+- Develop **visual dashboards** on top of the data for real-time analytics.
 
 ---
 
