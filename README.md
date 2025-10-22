@@ -15,7 +15,7 @@ This repository includes projects I’ve built while learning and practicing dat
 - Created database tables in **PostgreSQL** using SQL scripts.
 - Demonstrated **data modeling best practices** (normalization, relationships).
 
-📂 Folder: [`erd_project/`](./erd_project)
+📂 Folder: [`erd_project/`](./erd-project)
 
 ---
 
