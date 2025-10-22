@@ -1,7 +1,7 @@
 # 🧠 Data Engineering Portfolio
 
 Welcome to my Data Engineering Portfolio!  
-This repository includes projects I’ve built while learning and practicing data engineering concepts, focusing on **ETL pipelines**, **data modeling**, and **workflow orchestration** using **Python, NumPy, Airflow, and PostgreSQL**.
+This repository includes projects I’ve built while learning and practicing data engineering concepts, focusing on **data cleaning**, **ETL pipelines**, **data modeling**, and **workflow orchestration** using **Python, NumPy, Pandas, Airflow, and PostgreSQL**.
 
 ---
 
@@ -19,7 +19,21 @@ This repository includes projects I’ve built while learning and practicing dat
 
 ---
 
-### 2. 🏬 Capstone Project: End-to-End Retail Data Pipeline with Python, SQL & Airflow
+### 2. 🐍 Data Cleaning and Feature Engineering with Python
+**Goal:** Read, clean, and transform raw CSV data into a structured dataset for analysis and reporting.  
+**Highlights:**
+- Loaded raw data from **CSV files** using **Pandas**.  
+- Cleaned and standardized data (handled missing values, duplicates, and outliers).  
+- Performed **feature engineering** to create new insights and analytical fields.  
+- Applied **NumPy** for numerical operations and data transformations.  
+- Exported the final cleaned dataset into a new CSV file.  
+- Generated **basic reports** and summary statistics from the transformed data.  
+
+📂 Folder: [`data_cleaning_project/`](./data_cleaning_project)
+
+---
+
+### 3. 🏬 Capstone Project: End-to-End Retail Data Pipeline with Python, SQL & Airflow
 **Goal:** Build a complete data pipeline for a retail business, from raw data ingestion to loading into a PostgreSQL database for analytics and visualization.  
 **Highlights:**
 - Developed an **end-to-end ETL pipeline** using **Python** and **Apache Airflow**.  
@@ -38,7 +52,7 @@ This repository includes projects I’ve built while learning and practicing dat
 
 | Category | Tools |
 |-----------|-------|
-| Programming | Python, NumPy |
+| Programming | Python, NumPy, Pandas |
 | Workflow Orchestration | Apache Airflow |
 | Database | PostgreSQL |
 | Data Modeling | ERD, SQL |
