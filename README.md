@@ -75,5 +75,5 @@ This repository includes projects I’ve built while learning and practicing dat
 ---
 
 ## 📫 Contact
-**LinkedIn:** [Your LinkedIn URL]  
-**Email:** [Your Email Address]
+**LinkedIn:** https://www.linkedin.com/in/baraa-fayez/  
+**Email:** baraa.fayezz@gmail.com
