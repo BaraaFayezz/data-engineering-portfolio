@@ -98,13 +98,13 @@ When you run the project:
 ## 📊 Output
 
 1. **Cleaned Dataset**
-A new CSV file named `cleaned_orders_final.csv` will be created in the project folder.
+   -A new CSV file named `cleaned_orders_final.csv` will be created in the project folder.
 
  2. **Generated Reports**
-- Delivery Status Report
-- Orders by Country & City
-- Top Shipping Companies
-- Shipping Company Affiliation Summary
+   - Delivery Status Report
+   - Orders by Country & City
+   - Top Shipping Companies
+   - Shipping Company Affiliation Summary
 
 
 
