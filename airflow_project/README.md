@@ -65,7 +65,6 @@ pip install apache-airflow pandas matplotlib psycopg2-binary
    ```bash
    http://localhost:8080
 
-4. Locate the DAG named 'daily_sales_revenue_analysis'.
-
+4. Locate the DAG named `daily_sales_revenue_analysis`.
   - Turn it ON to enable scheduling.
   - Click Trigger DAG ▶️ to run it manually.
