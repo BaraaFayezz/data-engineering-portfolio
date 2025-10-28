@@ -73,7 +73,7 @@ The main goal is to transform an unclean dataset (`Orders_with_issues.csv`) into
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/data-engineering-portfolio.git
+   git clone https://github.com/BaraaFayezz/data-engineering-portfolio.git
    
 2. **Navigate to the project folder**
    ```bash
