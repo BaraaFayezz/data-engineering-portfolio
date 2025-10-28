@@ -83,4 +83,5 @@ with DAG(
         python_callable=plot_daily_revenue,
     )
 
+
     task_fetch_data >> task_process_revenue >> task_plot_revenue
