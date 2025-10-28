@@ -97,14 +97,14 @@ When you run the project:
 
 ## 📊 Output
 
-- **Generated File**: cleaned_orders_final.csv
-     A fully cleaned and structured dataset ready for analytics and reporting.
+### 1. Cleaned Dataset
+A new CSV file named `cleaned_orders_final.csv` will be created in the project folder.
 
-- **Reports Produced**:
-  - Delivery status breakdown (OnTime / Late / Unknown)
-  - Orders distribution by country and city
-  - Top 3 shipping companies by count
-  - Shipping company affiliation analysis
+### 2. Generated Reports
+- Delivery Status Report
+- Orders by Country & City
+- Top Shipping Companies
+- Shipping Company Affiliation Summary
 
 
 
