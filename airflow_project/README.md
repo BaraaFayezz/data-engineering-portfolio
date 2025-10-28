@@ -28,3 +28,16 @@ The pipeline is orchestrated in Airflow with three key stages:
 ---
 
 ## 📁 Project Structure
+```bash
+data-engineering-portfolio/
+│
+├── airflow_dags/
+│   ├── daily_sales_revenue_analysis.py   # The main Airflow DAG script
+│
+├── airflow_output/
+│   ├── daily_sales_data.csv              # Extracted order data
+│   ├── daily_revenue.csv                 # Aggregated daily revenue
+│   ├── daily_revenue_plot.png            # Visualization of daily sales
+│
+└── README.md
+```
