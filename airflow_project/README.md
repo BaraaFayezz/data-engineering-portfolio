@@ -41,3 +41,31 @@ data-engineering-portfolio/
 │
 └── README.md
 ```
+
+---
+
+## ⚙️ How to Install Dependencies
+
+Before running the DAG, ensure you have the required dependencies installed:
+
+```bash
+pip install apache-airflow pandas matplotlib psycopg2-binary
+```
+
+## 🚀 How to Run the DAG
+
+1. Place the DAG file (`daily_sales_revenue_analysis.py`) inside your Airflow `dags/` directory.  
+
+2. Make sure your Airflow environment is running:  
+   ```bash
+   airflow webserver -p 8080
+   airflow scheduler
+
+3. Open the Airflow Web UI in your browser:
+   ```bash
+   http://localhost:8080
+
+4. Locate the DAG named 'daily_sales_revenue_analysis'.
+
+  - Turn it ON to enable scheduling.
+  - Click Trigger DAG ▶️ to run it manually.
