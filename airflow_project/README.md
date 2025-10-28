@@ -71,10 +71,7 @@ pip install apache-airflow pandas matplotlib psycopg2-binary
   
 5. Monitor the DAG run in the Airflow UI.
    
-When it completes successfully, check your `airflow_output`/ folder for:
-
+   When it completes successfully, check your `airflow_output`/ folder for:
       - `daily_sales_data.csv` → extracted order data
-
       - `daily_revenue.csv` → aggregated revenue data
-
       - `daily_revenue_plot.png` → generated visualization
